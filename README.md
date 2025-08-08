@@ -9,3 +9,7 @@ Tenho interesse em projetos que conectem tecnologia com impacto social, especial
 Este espaço é dedicado ao meu aprendizado, evolução e contribuição. Seja bem-vindo(a) ao meu GitHub!
 
 [![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=davisdeus&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Detalhes
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davisdeusrepo=davisdeus.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

@@ -9,9 +9,13 @@ Tenho interesse em projetos que conectem tecnologia com impacto social, especial
 Este espaço é dedicado ao meu aprendizado, evolução e contribuição. Seja bem-vindo(a) ao meu GitHub!
 
 ### Detalhes
-
-[![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=davisdeus&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davisdeus&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davisdeus&repo=davisdeus.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davisdeus&repo=efood.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Linguagens utilizadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisdeus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contatos
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/pedrobrocaldi/)

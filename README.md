@@ -14,4 +14,3 @@ Este espaço é dedicado ao meu aprendizado, evolução e contribuição. Seja b
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davisdeusrepo=efood.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

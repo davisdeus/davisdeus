@@ -12,7 +12,7 @@ Este espaço é dedicado ao meu aprendizado, evolução e contribuição. Seja b
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davisdeus&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davisdeus&repo=efood.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davisdeus&repo=davisdeus.github.io&theme=dark)](https://github.com/davisdeus/davisdeus.github.io)
 
 ### Linguagens utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisdeus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

@@ -24,6 +24,8 @@ Este espaço é dedicado ao meu aprendizado, evolução e contribuição. Seja b
 | efood             | Aplicação de delivery com foco em front-end responsivo e integração com APIs.                                     | TypeScript               | [Ver projeto](https://github.com/davisdeus/efood)                   |
 | Ebac Tech Talks   | Landing page responsiva para evento tech, com contagem regressiva, seções temáticas, animações AOS e design adaptado. | HTML, CSS, JavaScript    | [Ver projeto](https://github.com/davisdeus/Ebac_tech_talks)         |
 | Clone Disney+     | Interface simulada do Disney+, com layout responsivo, seções promocionais e boas práticas de front-end. Deploy via Vercel. | HTML, CSS                | [Ver projeto](https://github.com/davisdeus/clone_disneyplus)        |
+| Lista de Contatos | Aplicação web simples para cadastro e visualização de contatos, com foco em componentização e boas práticas de Vue.js. | Vue.js                   | [Ver projeto](https://github.com/davisdeus/LIstaDeContatos)         |
+
 
 
 

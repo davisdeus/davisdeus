@@ -17,11 +17,14 @@ Este espaço é dedicado ao meu aprendizado, evolução e contribuição. Seja b
 
 ---
 
-### 📂 Projetos
+## 📂 Projetos
 
-| Projeto 1 | Projeto 2 | Projeto 3 |
-|-----------|-----------|-----------|
-| [![efood](https://github-readme-stats.vercel.app/api/pin/?username=davisdeus&repo=efood&theme=dark)](https://github.com/davisdeus/efood) | [![ebac_tech_talks](https://github-readme-stats.vercel.app/api/pin/?username=davisdeus&repo=ebac_tech_talks&theme=dark)](https://github.com/davisdeus/ebac_tech_talks) | [![clone_disneyplus](https://github-readme-stats.vercel.app/api/pin/?username=davisdeus&repo=clone_disneyplus&theme=dark)](https://github.com/davisdeus/clone_disneyplus) |
+| Projeto           | Descrição                                                                                                         | Tecnologias             | Link                                                                 |
+|-------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------|----------------------------------------------------------------------|
+| efood             | Aplicação de delivery com foco em front-end responsivo e integração com APIs.                                     | TypeScript               | [Ver projeto](https://github.com/davisdeus/efood)                   |
+| Ebac Tech Talks   | Landing page responsiva para evento tech, com contagem regressiva, seções temáticas, animações AOS e design adaptado. | HTML, CSS, JavaScript    | [Ver projeto](https://github.com/davisdeus/Ebac_tech_talks)         |
+| Clone Disney+     | Interface simulada do Disney+, com layout responsivo, seções promocionais e boas práticas de front-end. Deploy via Vercel. | HTML, CSS                | [Ver projeto](https://github.com/davisdeus/clone_disneyplus)        |
+
 
 
 

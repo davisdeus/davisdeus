@@ -18,9 +18,11 @@ Este espaço é dedicado ao meu aprendizado, evolução e contribuição. Seja b
 ---
 
 ### 📂 Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davisdeus&repo=efood&theme=dark&cache_seconds=1800)](https://github.com/davisdeus/efood)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davisdeus&repo=Ebac_tech_talks&theme=dark&cache_seconds=1800)](https://github.com/davisdeus/Ebac_tech_talks)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davisdeus&repo=clone_disneyplus&theme=dark&cache_seconds=1800)](https://github.com/davisdeus/clone_disneyplus)
+
+| Projeto 1 | Projeto 2 | Projeto 3 |
+|-----------|-----------|-----------|
+| [![efood](https://github-readme-stats.vercel.app/api/pin/?username=davisdeus&repo=efood&theme=dark)](https://github.com/davisdeus/efood) | [![ebac_tech_talks](https://github-readme-stats.vercel.app/api/pin/?username=davisdeus&repo=ebac_tech_talks&theme=dark)](https://github.com/davisdeus/ebac_tech_talks) | [![clone_disneyplus](https://github-readme-stats.vercel.app/api/pin/?username=davisdeus&repo=clone_disneyplus&theme=dark)](https://github.com/davisdeus/clone_disneyplus) |
+
 
 ---
 
